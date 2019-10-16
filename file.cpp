@@ -6,6 +6,6 @@ int main(){
 int a;
 cout<<"¬ведите"<<endl;
 cin>>a;
-cout<<"Hello, world!"<<endl;
+cout<<"Hello, "<<a<<endl;
 return 0;
 }
