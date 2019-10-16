@@ -14,7 +14,7 @@ int main(){
       break;
    }
    if(IsBreak==false){
-      cout<<"Hello, "<<str<<endl;
+      cout<<"Hello, "<<str<<"5"<<endl;
    }
    return 0;
 }
